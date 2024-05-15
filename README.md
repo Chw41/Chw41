@@ -8,7 +8,7 @@
 
 - 📝 Seminar report of paper [/Seminar-Report](https://github.com/Chw41/Seminar-Report)
 
-- 💻 Other Works Portfolio [HERE](https://github.com/Chw41?tab=repositories)
+- 💻 Other works portfolio [HERE](https://github.com/Chw41?tab=repositories)
 
 - 📫 How to reach me **frank.chw41@gmail.com**
 
