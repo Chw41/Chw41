@@ -6,6 +6,8 @@
 
 - ⛳ CTF writeups on [/My-CTF-Challenges](https://github.com/Chw41/My-CTF-Challenges) or [HackMD](https://hackmd.io/@CHW/)
 
+- 🧱 Self-created CTF challenges on [/Individual-CTF-Topic](https://github.com/Chw41/Individual-CTF-Topic)
+
 - 📝 Seminar report of paper [/Seminar-Report](https://github.com/Chw41/Seminar-Report)
 
 - 💻 Other works portfolio [HERE](https://github.com/Chw41?tab=repositories)
