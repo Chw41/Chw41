@@ -15,7 +15,4 @@
 - 📫 How to reach me **frank.chw41@gmail.com**
 
 
-> [!WARNING]
->  🚧 **The greener your Github, the yellower your eyes and the redder your health report.**  🔴🟡🟢
-
 ![snake gif](https://github.com/Chw41/Chw41/blob/output/github-contribution-grid-snake.svg)
