@@ -8,6 +8,8 @@
 
 - 🧱 Self-created CTF challenges on [/Individual-CTF-Topic](https://github.com/Chw41/Individual-CTF-Topic)
 
+- 👨‍💻 Offsec OSCP Note on [Certification/Offensive Security Certified Professional](https://github.com/Chw41/Certification/tree/main/Offensive%20Security%20Certified%20Professional)
+
 - 📝 Seminar report of paper [/Seminar-Report](https://github.com/Chw41/Seminar-Report)
 
 - 💻 Other works portfolio [HERE](https://github.com/Chw41?tab=repositories)
