@@ -1,6 +1,6 @@
 <h1 align="center">"01000011 01001000 01010111"</h1>
 
-- 🎓 NTUT ISLAB
+- 🎓 [NTUT is1ab](https://is1ab.com/)
 
 - 🎯 My personal schedule for forums/competitions [/Profile](https://github.com/Chw41/Profile)
 
