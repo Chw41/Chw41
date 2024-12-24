@@ -21,7 +21,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chw41&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chw41" alt="chw41" /></a> </p>  
+![](https://github-profile-trophy.vercel.app/?username=chw41&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
 ![snake gif](https://github.com/Chw41/Chw41/blob/output/github-contribution-grid-snake.svg)
  
