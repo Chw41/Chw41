@@ -1,4 +1,7 @@
 <h1 align="center">"01000011 01001000 01010111"</h1>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Chw41/count.svg?"  />
+</div>
 
 - 🎓 [NTUT is1ab](https://is1ab.com/)
 
@@ -16,5 +19,9 @@
 
 - 📫 How to reach me **frank.chw41@gmail.com**
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chw41&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chw41" alt="chw41" /></a> </p>  
 
 ![snake gif](https://github.com/Chw41/Chw41/blob/output/github-contribution-grid-snake.svg)
+ 
