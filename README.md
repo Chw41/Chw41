@@ -1,6 +1,6 @@
 <h1 align="center">"01000011 01001000 01010111"</h1>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Chw41/count.svg?"  />
+<div align="center" style="pointer-events: none;">
+  <img src="https://profile-counter.glitch.me/Chw41/count.svg" alt="Profile Counter" />
 </div>
 
 - 🎓 [NTUT is1ab](https://is1ab.com/)
