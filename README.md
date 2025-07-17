@@ -8,7 +8,7 @@
 
 - 🎯 My personal schedule for forums/competitions [/Profile](https://github.com/Chw41/Profile)
 
-- ⛳ CTF writeups on [/My-CTF-Challenges](https://github.com/Chw41/My-CTF-Challenges) or [HackMD](https://hackmd.io/@CHW/)
+- ⛳ CTF writeups on [/My-CTF-Challenges](https://github.com/Chw41/My-CTF-Challenges) or [/HackTheBox](https://github.com/Chw41/HackTheBox)
 
 - 🧱 Self-created CTF challenges on [/Individual-CTF-Topic](https://github.com/Chw41/Individual-CTF-Topic)
 
