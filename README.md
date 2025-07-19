@@ -1,8 +1,9 @@
 
 <div align="center" style="pointer-events: none;">
   <h1>"01000011 01001000 01010111"</h1>
+  <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/chw41"/>  
 </div>
-
 
 - 🎓 [NTUT is1ab](https://is1ab.com/)
 
@@ -26,10 +27,8 @@
 
 - 📫 How to reach me **frank.chw41@gmail.com**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chw41/) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/chw41)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chw41&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ![](https://github-contributor-stats.vercel.app/api?username=chw41&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chw41&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://github-profile-trophy.vercel.app/?username=chw41&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
