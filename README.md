@@ -1,7 +1,7 @@
 
 <div align="center" style="pointer-events: none;">
   <h1>"01000011 01001000 01010111"</h1>
-  <a href="https://www.freecounterstat.com" title="website hit counter"><img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=34fktkg9x4ae1zq4utduqzp98atjz6xt" border="0" title="website hit counter" alt="website hit counter"></a> 
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FChw41&s=45&c=00ff00&bg=00000000&no=6&ff=digi&tb=&ta=" alt="visits">
 </div>
 
 - 🎓 [NTUT is1ab](https://is1ab.com/)
