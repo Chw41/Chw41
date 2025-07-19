@@ -1,8 +1,7 @@
 
 <div align="center" style="pointer-events: none;">
   <h1>"01000011 01001000 01010111"</h1>
-  <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/chw41"/>  
+  <a href="https://www.freecounterstat.com" title="website hit counter"><img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=34fktkg9x4ae1zq4utduqzp98atjz6xt" border="0" title="website hit counter" alt="website hit counter"></a> 
 </div>
 
 - 🎓 [NTUT is1ab](https://is1ab.com/)
