@@ -1,0 +1,26 @@
+name: Bump counter cache key
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  bump:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update README v param
+        run: |
+          ts=$(date -u +%Y%m%d%H%M)
+          if grep -q 'workers.dev/.*[?&]v=' README.md; then
+            sed -i "s/\(workers\.dev\/[^\"']*[?&]v=\)[0-9]\{4,\}/\1${ts}/g" README.md
+          else
+            sed -i "s#\(workers\.dev/[^\"']*\)#\1\&v=${ts}#g" README.md
+          fi
+          git config user.name "CHW bot"
+          git config user.email "frank.chw41@gmail.com"
+          git commit -am "bump counter v=${ts}" || exit 0
+          git push
