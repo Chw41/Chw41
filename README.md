@@ -4,7 +4,9 @@
   <img src="https://chw-counter.frank-chw41.workers.dev/?id=Chw41&min=6&color=39ff14&bg=000000&size=42&gap=6&radius=6&v=202510270835" />
 </div>
 
-- 🎓 [NTUT is1ab](https://is1ab.com/)
+- 🫆 Security Researcher
+
+- 🎓 [NTUT is1ab](https://is1ab.com/) 2nd M.Eng. Graduate
 
 - 🎯 My personal schedule for forums/competitions [/Profile](https://github.com/Chw41/Profile)
 
