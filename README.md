@@ -6,6 +6,8 @@
 
 - 🫆 Security Researcher
 
+- 📰 Blog profile on https://chw41.github.io/
+
 - 🎓 [NTUT is1ab](https://is1ab.com/) 2nd M.Eng. Graduate
 
 - 🎯 My personal schedule for forums/competitions [/Profile](https://github.com/Chw41/Profile)
