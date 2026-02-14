@@ -16,7 +16,7 @@
 
 - 🧱 Self-created CTF challenges on [/Individual-CTF-Topic](https://github.com/Chw41/Individual-CTF-Topic)
 
-- 👨‍💻 Offsec OSCP+ Note on [/OffSec-Certification](https://github.com/Chw41/OffSec-Certification)
+- 👨‍💻 Offsec Certification Note on [/OffSec-Certification](https://github.com/Chw41/OffSec-Certification)
 
 - 🗣️ Tech Talks Unveiled on [/TechTalk-Digest](https://github.com/Chw41/TechTalk-Digest)
 
