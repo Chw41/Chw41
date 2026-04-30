@@ -23,7 +23,7 @@
 - 📝 Seminar report of paper [/Seminar-Report](https://github.com/Chw41/Seminar-Report)
 
 - ⚙️ Tools:
-  -  Info-Tech AUTO-CLAIM package: [/Info-Tech-AUTO-CLAIM](https://github.com/Chw41/Info-Tech-AUTO-CLAIM)
+  -  Info-Tech AUTO-CLAIM utility: [/Info-Tech-AUTO-CLAIM](https://github.com/Chw41/Info-Tech-AUTO-CLAIM)
   -  Visitor-Counter｜Cloudflare Workers + KV: [/Github-Visitor-Counter](https://github.com/Chw41/Github-Visitor-Counter)
   -  Minimal Cloudflare Worker Reverse Proxy: [/Cloudflare-Worker-Reverse-Proxy](https://github.com/Chw41/Cloudflare-Worker-Reverse-Proxy/tree/main)
   -  Elastic Stack (ELK) on Docker with Fixed IP and WireGuard VPN for pcap Analysis: [/Docker-ELK-pcap](https://github.com/Chw41/Docker-ELK-pcap)
