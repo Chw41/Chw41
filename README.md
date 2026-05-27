@@ -10,7 +10,7 @@
 
 - 🎓 [NTUT is1ab](https://is1ab.com/) 2nd M.Eng. Graduate
 
-- 🎯 My personal schedule for forums/competitions [/Profile](https://github.com/Chw41/Profile)
+- 🎯 My personal schedule for forums/competitions [/Profile](https://chw41.github.io/4b0u7/)
 
 - ⛳ CTF writeups on [/My-CTF-Challenges](https://github.com/Chw41/My-CTF-Challenges) or [/HackTheBox](https://github.com/Chw41/HackTheBox)
 
