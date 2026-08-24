@@ -6,6 +6,8 @@
 
 - 🫆 Security Researcher
 
+- 🔥 OSEP / OSWE / OSWA / OSCP+
+
 - 📰 Blog profile on https://chw41.github.io/
 
 - 🎓 [NTUT is1ab](https://is1ab.com/) 2nd M.Eng. Graduate
